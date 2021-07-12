@@ -467,9 +467,9 @@
        margin-right: 8px;
        width: 24px;
        height: 24px;
-       background: url(/assets/img/icons/demo_icon.svg); }
+       background: url(/assets/icons/demo_icon.svg); }
      .project__link--github::before {
-       background: url(/assets/img/icons/vector.svg); }
+       background: url(/assets/icons/vector.svg); }
    .project__logo {
      margin-bottom: 1rem;
      width: 24px;
@@ -562,11 +562,11 @@
        position: absolute;
        width: 18px;
        height: 18px;
-       background: url(/assets/img/icons/check-circle-green.svg); }
+       background: url(/assets/icons/check-circle-green.svg); }
        .skills__list--violet .skills__list--item::before {
-         background-image: url(/assets/img/icons/check-circle-violet.svg); }
+         background-image: url(/assets/icons/check-circle-violet.svg); }
        .skills__list--blue .skills__list--item::before {
-         background-image: url(/assets/img/icons/check-circle-blue.svg); }
+         background-image: url(/assets/icons/check-circle-blue.svg); }
        @media (max-width: 768px) {
          .skills__list--item::before {
            width: 12px;
